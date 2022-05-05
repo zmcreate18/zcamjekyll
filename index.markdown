@@ -3,20 +3,6 @@ layout: home
 title: A little of me 
 ---
 
-<html>
-<head>
-<style>
-#sample {
-border: 2px solid orange;
-padding: 38px;
-}
-.sample2 {
-border: 4px solid orange;
-margin: 39px;
-}
-</style>
-</head>
-
 <center>
 <img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2021/11/IMG_7496-scaled.jpeg" width="400px">
 </center>
