@@ -29,6 +29,7 @@ header_pages:
 - about.markdown
 - posts.markdown
 - annotated-bibliography.markdown
+- project-proposal.markdown
 
 # Build settings
 theme: minima
