@@ -3,9 +3,7 @@ layout: home
 title: A little of me 
 ---
 
-<center>
 <img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2021/11/IMG_7496-scaled.jpeg" width="400px">
-</center>
 
 <br/>
 
