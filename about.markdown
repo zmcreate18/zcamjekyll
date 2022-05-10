@@ -9,8 +9,9 @@ Her future career goals are to become either a Web designer/developer, a System 
 She loves reading, learning, listening to music, watching movies and anime and playing games. 
 She loves nature, animals and food. [Digital Humanities Research](https://createcaribbean.org/create/zebadijah-maxwell/).
 
-<img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2021/11/IMG_7496-scaled.jpeg" width="400px">
-
+<center>
+<img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2021/11/IMG_7496-scaled.jpeg" width="700px">
+</center>
 
 <br/>
 
