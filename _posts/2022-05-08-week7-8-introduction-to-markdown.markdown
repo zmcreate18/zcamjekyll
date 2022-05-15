@@ -5,6 +5,13 @@ date:  2021-11-08 8:52:00 -0400
 categories: jekyll update
 ---
 
+<style>
+div{
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 <p>The article written by Sarah Simpkin published in 2015, “Getting Started with Markdown” teaches all one needs to know about Markdown. The lesson contains why Markdown is used, how to format the files and how to preview Markdown formatted documents on the Web.</p>
 
 <p>In 2004, John Gruber developed Markdown. Markdown refers to a way of formatting text files as well as a Perl utility to convert Markdown files into HTML. Basically, markdown is known as a plain text-based syntax for formatting documents.  Utilizing plain text files is more advantageous over other documents as they are readable virtually on any and all device and they can withstand the test of time better than other file types-compatible. Markdown files can be saved with the extension .md and can be opened in a text editor such as TextEdit, Notepad, Sublime Text or Vim.</p>
