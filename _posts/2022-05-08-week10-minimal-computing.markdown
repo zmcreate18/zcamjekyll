@@ -16,10 +16,11 @@ div{
 
 <p>Now, the DH Minimal Computing group had to decide what should be done. They decided in the following italicized points to:
 
-<i><ul>“Provide a space for generating and sharing discussion and resources exploring the practice and impact of minimal computing from both a practical and theoretical perspective.
-Shine a spotlight on a large portion of humanities work that is currently going unnoticed, enabling further research to take place in these areas</ul>
-<ul>Fold in (rather than appropriate) this sort of work into academic work for discussion and analysis</ul>
-<ul>Raise cultural awareness and explore questions such as:</ul>
+<i><li>“Provide a space for generating and sharing discussion and resources exploring the practice and impact of minimal computing from both a practical and theoretical perspective.</li>
+<li>Shine a spotlight on a large portion of humanities work that is currently going unnoticed, enabling further research to take place in these areas</li>
+<li>Fold in (rather than appropriate) this sort of work into academic work for discussion and analysis</li>
+<li>Raise cultural awareness and explore questions such as:</li>
+
 <li>In digital humanities and other computing contexts, what is being done with what technologies, how, and why?</li>
 <li>What are best practices for application construction in order to maximize availability, decrease obsolescence, and reduce e-waste?</li>
 <li>What are the social impacts of digitization and computing from a post-colonial perspective?</li>
