@@ -19,9 +19,10 @@ div{
 <i><li>“Provide a space for generating and sharing discussion and resources exploring the practice and impact of minimal computing from both a practical and theoretical perspective.</li>
 <li>Shine a spotlight on a large portion of humanities work that is currently going unnoticed, enabling further research to take place in these areas</li>
 <li>Fold in (rather than appropriate) this sort of work into academic work for discussion and analysis</li>
-<li>Raise cultural awareness and explore questions such as:</li>
+<li>Raise cultural awareness and explore questions such as:</li><br>
+<br>
 
-1. In digital humanities and other computing contexts, what is being done with what technologies, how, and why?
+1. In digital humanities and other computing contexts, what is being done with what technologies, how, and why?<br>
 
 2. What are best practices for application construction in order to maximize availability, decrease obsolescence, and reduce e-waste?
 
