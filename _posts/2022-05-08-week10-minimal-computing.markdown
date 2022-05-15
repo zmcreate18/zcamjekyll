@@ -20,16 +20,20 @@ div{
 <li>Shine a spotlight on a large portion of humanities work that is currently going unnoticed, enabling further research to take place in these areas</li>
 <li>Fold in (rather than appropriate) this sort of work into academic work for discussion and analysis</li>
 <li>Raise cultural awareness and explore questions such as:</li><br>
-<br>
 
 1. In digital humanities and other computing contexts, what is being done with what technologies, how, and why?<br>
+<br>
 
 2. What are best practices for application construction in order to maximize availability, decrease obsolescence, and reduce e-waste?
+<br>
 
 3. What are the social impacts of digitization and computing from a post-colonial perspective?
+<br>
 
 4. How does doing minimal computing by choice differ from doing minimal computing by necessity? Does this result in different interactions between the user and the technology?
+<br>
 
 5. In terms of computing and culture, what meaningful differences emerge across economical, infrastructural, and material conditions?”</i></p>
+<br>
 
 <p><i>“The User, the Learner and the Machines We Make”</i> by Alex Gil &lpar;2015&rpar; focuses on minimal computing, the users, learners and the machines that is created by them. Generally, minimal computing is the application of minimalist principles to computing. However, in reality minimal computing is in the eye of the beholder.  The learning curve for utilizing a Raspberry Pi can be threatening to beginners and thus requires more than minimum effort. On the other hand, on a user interface, eliminating clutter such as distracting designs can be understood as a part of a minimalist approach making it easier for users to engage. Alex Gil prefers the approach of the question “What do we need” to minimal computing. He believes that if one does so, their orientations vis-à-vis ease of use, ease of creation, increased access and reductions in computing becomes clearer. As stated by Alex Gil &lpar;2015&lpar; <i>“In this sense, we aim to understand ways of building that could be referred to as “architectures of necessity” as Ernesto Oroza would call them.”</i></p>
