@@ -22,8 +22,7 @@ div{
 <br>
 <li>Describe collections, single, resources and components of a large resource.</li>
 <br>
-<li>Be embedded into a digital object or it can be stored separately. One of the languages it is frequently embedded in is HTML documents and the headers of image files.</li>
-<br></p>
+<li>Be embedded into a digital object or it can be stored separately. One of the languages it is frequently embedded in is HTML documents and the headers of image files.</li></p>
 
 <p>All in all metadata facilitates the discovery of relevant information, organizes electronic resources, facilitates interoperability and legacy resource integration, provides digital identification and support archiving and preservation.</p>
 
